@@ -1,6 +1,6 @@
 # nuxt-universal
 
-> My ace Nuxt.js project
+A boilerplate for a universal app built with Nuxt.js + Bootstrap.
 
 ## Build Setup
 
@@ -18,5 +18,3 @@ $ yarn start
 # generate static project
 $ yarn run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
