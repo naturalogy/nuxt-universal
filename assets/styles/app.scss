@@ -1,0 +1,8 @@
+/*
+ * Override Bootstrap styles
+ */
+
+$enable-rounded: false;
+$body-bg: #fafafa;
+
+@import '~bootstrap/scss/bootstrap';

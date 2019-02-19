@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-universal",
+  "version": "1.0.0",
+  "description": "My ace Nuxt.js project",
+  "author": "naturalogy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.12",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.4.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "node-sass": "^4.11.0",
+    "nodemon": "^1.18.10",
+    "sass-loader": "^7.1.0",
+    "vue-scrollto": "^2.13.0"
+  }
+}
