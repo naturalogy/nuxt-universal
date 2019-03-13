@@ -2,7 +2,7 @@
   <footer id="site-footer" role="contentinfo">
     <div class="container">
       <div class="copyright">&copy; <time>{{ new Date().getFullYear() }}</time> nuxt-universal</div>
-      <nuxt-link v-scroll-to="'#page'" class="pageTop" :class="{'d-none': scrollY < 256}" to>Page Top</nuxt-link>
+      <a href="#" class="pageTop" :class="{'d-none': scrollY < 256}">Page Top</a>
     </div>
   </footer>
 </template>

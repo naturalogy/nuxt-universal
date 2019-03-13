@@ -1,7 +1,7 @@
 const pkg = require('./package')
 
 module.exports = {
-  mode: 'universal',
+  mode: 'spa',
 
   /*
   ** Headers of the page
@@ -27,23 +27,27 @@ module.exports = {
   ** Global CSS
   */
   css: [
-    'assets/styles/app.scss'
+    '@/assets/styles/app.scss'
   ],
 
   /*
   ** Plugins to load before mounting the App
   */
   plugins: [
-    '~/plugins/vue-scrollto'
   ],
 
   /*
   ** Nuxt.js modules
   */
-  modules: [,
-    ['bootstrap-vue/nuxt', { css: false }],
+  modules: [
+    'bootstrap-vue/nuxt',
     '@nuxtjs/axios'
   ],
+  
+  bootstrapVue: {
+    bootstrapCSS: false,
+    bootstrapVueCSS: false
+  },
 
   axios: {
   },

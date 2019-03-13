@@ -12,15 +12,14 @@
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "bootstrap-vue": "^2.0.0-rc.12",
+    "bootstrap-vue": "^2.0.0-rc.14",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.4.3"
+    "nuxt": "^2.4.5"
   },
   "devDependencies": {
-    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/axios": "^5.4.1",
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.10",
-    "sass-loader": "^7.1.0",
-    "vue-scrollto": "^2.13.0"
+    "sass-loader": "^7.1.0"
   }
 }
