@@ -2,7 +2,8 @@
   <main id="content" class="container" role="main">
     <section>
       <h1>nuxt-universal</h1>
-      <h2>My ace Nuxt.js project</h2>
+      <h2>Bootstrap-ready dev env with Nuxt.js</h2>
+      Optimized for Japanese contents.
     </section>
   </main>
 </template>
