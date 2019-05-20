@@ -2,8 +2,9 @@
   <main id="content" class="container" role="main">
     <section>
       <h1>nuxt-universal</h1>
-      <h2>Bootstrap-ready dev env with Nuxt.js</h2>
-      Optimized for Japanese contents.
+      <h2>Bootstrap-ready boilerolate for Nuxt.js</h2>
+      <p class="lead">Optimized for Japanese contents.</p>
+      <p>日本語のコンテンツに最適化したBootstrapによるNuxt.jsボイラープレートです。</p>
     </section>
   </main>
 </template>

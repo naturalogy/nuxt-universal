@@ -1,7 +1,7 @@
 {
   "name": "nuxt-universal",
   "version": "1.0.0",
-  "description": "Bootstrap-ready dev env with Nuxt.js",
+  "description": "Bootstrap-ready boilerolate for Nuxt.js",
   "license": "MIT",
   "author": "S. Skmt",
   "homepage": "https://naturalogy.net/",
@@ -15,7 +15,7 @@
   "dependencies": {
     "bootstrap-vue": "^2.0.0-rc.14",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.6.3"
+    "nuxt": "^2.7.1"
   },
   "devDependencies": {
     "@nuxtjs/axios": "^5.4.1",

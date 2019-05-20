@@ -3,3 +3,11 @@ $body-bg: #fafafa;
 
 @import '~bootstrap/scss/bootstrap';
 @import '~bootstrap-vue/src/index.scss';
+
+#content {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    color: $gray-700;
+    margin: 4rem 0 2rem;
+  }
+}
